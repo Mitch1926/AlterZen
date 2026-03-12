@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AlterZen",
+    "slug": "alterzen",
+    "version": "1.0.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.alterzen.app"
+    }
+  }
+}
